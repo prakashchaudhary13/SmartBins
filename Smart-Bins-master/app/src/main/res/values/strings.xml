@@ -1,0 +1,7 @@
+<resources>
+    <string name="google_map_api_key">AIzaSyCtdwbGkmAzVj2LLuZx3OvbOU02mHhNxkc</string>
+    <string name="app_name">Smart Bins</string>
+    <string name="FCM_PREF">com.example.alfurquan.googlemapgoogleplaces</string>
+    <string name="FCM_TOKEN">com.example.alfurquan.googlemapgoogleplaces.fcm_token</string>
+
+</resources>

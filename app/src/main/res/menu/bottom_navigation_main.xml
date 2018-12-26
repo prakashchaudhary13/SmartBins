@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:title="HOME"
+        android:icon="@drawable/ic_home_black_24dp" />
+
+    <item
+        android:id="@+id/bins"
+        android:enabled="true"
+        android:title="BINS"
+        android:icon="@drawable/trash" />
+
+    <item
+        android:id="@+id/location"
+        android:enabled="true"
+        android:title="NEAR ME  "
+        android:icon="@drawable/ic_place_black_24dp" />
+
+
+
+</menu>
